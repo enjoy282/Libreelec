@@ -231,4 +231,4 @@ LibreELEC is offered as a full free version with all features and updates includ
 Unlock the full potential of your multimedia experience with LibreELEC. **Download now and enjoy!**
 
 ---
-**Last updated:** 2026-09-22 15:17:18 UTC
+**Last updated:** 2026-09-22 19:25:09 UTC
